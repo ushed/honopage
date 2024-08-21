@@ -150,11 +150,7 @@ const Home = () => {
               </dd>
             </dl>
             <div className="btn">
-              <input
-                type="hidden"
-                name="redirectTo"
-                value="http://localhost:5173/success"
-              />
+              <input type="hidden" name="redirectTo" value="/" />
               <input type="submit" value="送信" />
             </div>
             <input type="text" name="honeypot" style="display: none;"></input>
