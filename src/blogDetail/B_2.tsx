@@ -46,6 +46,11 @@ const BlogDetail = () => {
           みたいな感じで進んでいく派ですか?それぞれにメリット・デメリットあると思いますが、私は突っ走ることをお勧めします。
           良い人生を(๑'ᴗ'๑)و⚑
         </p>
+        <a href="/blog" className="btn_a">
+          <div className="btn">
+            <div className="btn_txt">blog</div>
+          </div>
+        </a>
       </section>
     </>
   );

@@ -8,6 +8,11 @@ const creation = () => {
           <span>何となく</span>やっていく
         </h2>
         <p style="line-height: 2"></p>
+        <a href="/creation" className="btn_a">
+          <div className="btn">
+            <div className="btn_txt">more creation</div>
+          </div>
+        </a>
       </section>
     </>
   );
