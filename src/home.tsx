@@ -54,31 +54,56 @@ const Home = () => {
             <li>
               <a href="">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p></p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
               <a href="">
                 <img src="/static/images/kuma.jpg" alt="kumamoto3" />
-                <p></p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li class="card_hide">
               <a href="">
                 <img src="/static/images/kuma.jpg" alt="kumamoto4" />
-                <p></p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li class="card_hide">
               <a href="">
                 <img src="/static/images/kuma.jpg" alt="kumamoto5" />
-                <p>あああああああああああああああ</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li class="card_hide">
               <a href="">
                 <img src="/static/images/kuma.jpg" alt="kumamoto6" />
-                <p></p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
           </ul>
