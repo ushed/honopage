@@ -39,7 +39,7 @@ export const renderer = jsxRenderer(({ children }) => {
             </li>
             <li class="btn">
               <a
-                href="https://www.twitter.com"
+                href="https://x.com/Ushed_36"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="X_tagu"

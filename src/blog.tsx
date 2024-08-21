@@ -13,7 +13,7 @@ const blog = () => {
               <dd>個人サイト無理ゲー</dd>
             </a>
             <a href="/blogDetail/1">
-              <dt>2024/01/01</dt>
+              <dt>2024/07/20</dt>
               <dd>何となくやっていく</dd>
             </a>
           </dl>

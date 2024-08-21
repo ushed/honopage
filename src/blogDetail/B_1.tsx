@@ -3,7 +3,7 @@ const BlogDetail = () => {
   return (
     <>
       <section id="blog" class="wrapper">
-        <h3>2024/07/15</h3>
+        <h3>2024/07/20</h3>
         <h2 class="sec-title">
           <span>何となく</span>やっていく
         </h2>
@@ -52,6 +52,11 @@ const BlogDetail = () => {
           <br />
           良い人生を(๑'ᴗ'๑)و⚑
         </p>
+        <a href="/blog" className="btn_a">
+          <div className="btn">
+            <div className="btn_txt">blog</div>
+          </div>
+        </a>
       </section>
     </>
   );
