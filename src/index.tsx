@@ -16,9 +16,19 @@ app.get("/", (c) => {
 app.get("/creation", (c) => {
   return c.render(<Creation />);
 });
+app.get(`/creationDetail/:id`, async (c) => {
+  const { id } = c.req.param();
+  const Component = (await import(`./creationDetail/C_${id}.tsx`)).default;
+  return c.render(<Component />);
+});
 
 app.get("/blog", (c) => {
   return c.render(<Blog />);
+});
+app.get(`/blogDetail/:id`, async (c) => {
+  const { id } = c.req.param();
+  const Component = (await import(`./blogDetail/B_${id}.tsx`)).default;
+  return c.render(<Component />);
 });
 
 app.get("/success", (c) => {
