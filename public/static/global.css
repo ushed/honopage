@@ -1,5 +1,5 @@
 html {
-  font-size: 100%; /*16px*/
+  font-size: 90%; /* 16px*0.9=14.4 */
 }
 
 :root {
@@ -488,8 +488,8 @@ span {
 
 /*sp*/
 @media screen and (max-width: 768px) {
-  html,
-  body {
+  html {
+    font-size: 80%;
     overflow-x: hidden;
     margin: 0;
     padding: 0;
@@ -548,6 +548,11 @@ span {
     width: 15px;
     align-items: center;
     padding-bottom: 25px;
+  }
+
+  #main img {
+    margin-bottom: 30px;
+    height: 30vh;
   }
 
   /*creation*/
