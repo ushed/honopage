@@ -9,65 +9,91 @@ const creation = () => {
           </h2>
           <ul>
             <li>
-              <a href="/creation">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto1" />
-                <p>
-                  ああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああx
-                </p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p>aaa</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p>aaa</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p>aaa</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="/creation">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto1" />
-                <p>
-                  ああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああああああああああああああああああ
-                  ああああああああああああああああああああああああああああああx
-                </p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p>aaa</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p>aaa</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
-                <p>aaa</p>
+                <div>
+                  <h3>2004/04/04</h3>
+                  <p>
+                    あああああああああああああああああああああああああああああああああああああ
+                  </p>
+                </div>
               </a>
             </li>
           </ul>

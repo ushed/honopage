@@ -15,23 +15,24 @@ const Home = () => {
             <li>
               <span>U</span>shed
             </li>
-            <li>daigaku</li>
+            <li>大学2年生</li>
             <li>エンジニアを目指してます</li>
           </ul>
           <p>
-            基本月１更新になると思います
-            <br />
+            基本的に月1で何かをアップする予定しています。
+            <br />「
             <a href="/creation">
               <span>creation</span>
             </a>
-            では創作物、
+            」 では創作物を紹介し、「
             <a href="/blog">
               <span>Blog</span>
             </a>
-            では何かの動機になれば感覚で書いていくつもりです
+            」 では新しいことに挑戦するためのモチベーションを維持するため
+            の記録を綴っていきます。
             <br />
-            これらを見ていて、皆さんの中にもチャレンジしてみたいことができたら、
-            ぜひ自分のペースでやってみてください！！
+            このサイトを通じて、皆さんも新しいチャレンジを始めるきっかけになれば嬉しいです。
+            自分のペースで、楽しんで取り組んでみてください!!
           </p>
         </section>
 
@@ -52,7 +53,7 @@ const Home = () => {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <div>
                   <h3>2004/04/04</h3>
@@ -63,7 +64,7 @@ const Home = () => {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto3" />
                 <div>
                   <h3>2004/04/04</h3>
@@ -74,7 +75,7 @@ const Home = () => {
               </a>
             </li>
             <li class="card_hide">
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto4" />
                 <div>
                   <h3>2004/04/04</h3>
@@ -85,7 +86,7 @@ const Home = () => {
               </a>
             </li>
             <li class="card_hide">
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto5" />
                 <div>
                   <h3>2004/04/04</h3>
@@ -96,7 +97,7 @@ const Home = () => {
               </a>
             </li>
             <li class="card_hide">
-              <a href="">
+              <a href="/creationDetail/1">
                 <img src="/static/images/kuma.jpg" alt="kumamoto6" />
                 <div>
                   <h3>2004/04/04</h3>
@@ -119,6 +120,10 @@ const Home = () => {
             Bl<span>og</span>
           </h2>
           <dl>
+            <a href="/blogDetail/3">
+              <dt>2024/08/21</dt>
+              <dd>振り出しに戻ってからの〜</dd>
+            </a>
             <a href="/blogDetail/2">
               <dt>2024/08/12</dt>
               <dd>個人サイト無理ゲー</dd>
