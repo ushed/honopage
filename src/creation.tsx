@@ -10,7 +10,7 @@ const creation = () => {
           <ul>
             <li>
               <a href="/creation">
-                <img src="/static/kuma.jpg" alt="kumamoto1" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto1" />
                 <p>
                   ああああああああああああああああああああああああああああああああ
                   ああああああああああああああああああああああああああああああああ
@@ -23,25 +23,25 @@ const creation = () => {
             </li>
             <li>
               <a href="">
-                <img src="/static/kuma.jpg" alt="kumamoto2" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <p>aaa</p>
               </a>
             </li>
             <li>
               <a href="">
-                <img src="/static/kuma.jpg" alt="kumamoto2" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <p>aaa</p>
               </a>
             </li>
             <li>
               <a href="">
-                <img src="/static/kuma.jpg" alt="kumamoto2" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <p>aaa</p>
               </a>
             </li>
             <li>
               <a href="/creation">
-                <img src="/static/kuma.jpg" alt="kumamoto1" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto1" />
                 <p>
                   ああああああああああああああああああああああああああああああああ
                   ああああああああああああああああああああああああああああああああ
@@ -54,19 +54,19 @@ const creation = () => {
             </li>
             <li>
               <a href="">
-                <img src="/static/kuma.jpg" alt="kumamoto2" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <p>aaa</p>
               </a>
             </li>
             <li>
               <a href="">
-                <img src="/static/kuma.jpg" alt="kumamoto2" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <p>aaa</p>
               </a>
             </li>
             <li>
               <a href="">
-                <img src="/static/kuma.jpg" alt="kumamoto2" />
+                <img src="/static/images/kuma.jpg" alt="kumamoto2" />
                 <p>aaa</p>
               </a>
             </li>
