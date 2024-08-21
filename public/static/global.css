@@ -198,7 +198,7 @@ span {
   transition: transform 0.3s;
 }
 .nav-active {
-  transform: translateX(0%) !important;
+  display: block !important;
 }
 
 #mode {
@@ -488,8 +488,11 @@ span {
 
 /*sp*/
 @media screen and (max-width: 768px) {
+  html,
   body {
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
   }
   .I {
     margin-top: 10px;
@@ -517,7 +520,7 @@ span {
     width: 40%;
     padding-top: 10%;
     padding-right: 5%;
-    transform: translateX(100%);
+    display: none;
   }
 
   .burger {
