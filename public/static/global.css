@@ -284,6 +284,9 @@ span {
   border: 0.5px solid var(--white_A-color);
   transition: all 0.3s;
 }
+#creation ul li a div {
+  margin: 11px;
+}
 
 #creation ul li img {
   width: 100%;
