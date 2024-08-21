@@ -13,7 +13,7 @@ const Home = () => {
           </h2>
           <ul>
             <li>
-              <span>U</span>shed
+              <span>3</span>6
             </li>
             <li>大学2年生</li>
             <li>エンジニアを目指してます</li>
