@@ -32,7 +32,7 @@ export const renderer = jsxRenderer(({ children }) => {
         <nav>
           <ul class="nav-links">
             <li>
-              <a href="/creation">creation</a>
+              <a href="/creation">Creation</a>
             </li>
             <li>
               <a href="/blog">Blog</a>

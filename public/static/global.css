@@ -1,5 +1,5 @@
 html {
-  font-size: 90%; /* 16px*0.9=14.4 */
+  font-size: 90%; /*16px*/
 }
 
 :root {
@@ -116,6 +116,9 @@ span {
   padding: 0 5%;
   height: 80px;
   transition: 0.5s;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 #header h1 a span {
@@ -230,7 +233,7 @@ span {
 
 /*main*/
 #main img {
-  margin-top: 0;
+  margin-top: 80px;
   width: 100%;
   margin-bottom: 70px;
   max-width: 1920px;
@@ -506,17 +509,20 @@ span {
 
   /*header*/
   #header {
-    height: auto;
+    height: 60px;
     line-height: 60px;
     padding-top: 20px;
     padding-bottom: 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
   }
 
   .nav-links {
     position: absolute;
     right: 0;
     height: 95vh;
-    top: 80px;
+    top: 60px;
     background-color: var(--dark_A-color);
     flex-direction: column;
     align-items: center;
@@ -554,10 +560,10 @@ span {
   }
 
   #main picture img {
+    margin-top: 60px;
     margin-bottom: 30px;
     height: 30vh;
   }
-
   /*creation*/
   #creation ul {
     flex-direction: column;
