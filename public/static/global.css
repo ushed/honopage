@@ -108,6 +108,7 @@ span {
 
 /*header*/
 #header {
+  z-index: 2;
   background: var(--dark_A-color);
   width: 100%;
   display: flex;
@@ -234,6 +235,7 @@ span {
 /*main*/
 #main {
   margin-top: 80px;
+  z-index: 1;
 }
 
 #main img {
