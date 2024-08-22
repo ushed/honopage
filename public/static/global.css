@@ -232,8 +232,12 @@ span {
 }
 
 /*main*/
-#main img {
+#main {
   margin-top: 80px;
+}
+
+#main img {
+  margin-top: 0;
   width: 100%;
   margin-bottom: 70px;
   max-width: 1920px;
@@ -559,8 +563,10 @@ span {
     padding-bottom: 25px;
   }
 
-  #main picture img {
+  #main {
     margin-top: 60px;
+  }
+  #main picture img {
     margin-bottom: 30px;
     height: 30vh;
   }
